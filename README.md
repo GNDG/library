@@ -3,7 +3,7 @@ This repo is to request for the new libraray.
 
 
 Requests for library
-  - [test library](https://github.com/GNDG/library/tree/master/detali/libraryDetail.md) request by [Juggernaut451](https://github.com/juggernaut451)
+  - [test library](https://github.com/GNDG/library/blob/master/detail/libraryDetali.md) request by [Juggernaut451](https://github.com/juggernaut451)
 
 
 > While making a PR for this repo. Kindly
